@@ -17,6 +17,13 @@ EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
 </p>
 
 
+# The Devv.il
+
+<p align="center">
+  <img  width="1000" height="250" src="https://i.hizliresim.com/lh5i19a.png">
+</p>
+
+
 # License
 
     QBCore Framework
